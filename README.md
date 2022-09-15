@@ -1,6 +1,6 @@
 ### Matheus Mattesco
 
-Linkedin [https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fmatheus-mattesco-19a827204]
+Linkedin [LinkedIn](http://linkedin.com/in/msbrodrigues](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fmatheus-mattesco-19a827204)).
 
 
 - 🔭 I’m currently working on ...
