@@ -1,9 +1,7 @@
 ### Matheus Mattesco
 
+Linkedin [https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fmatheus-mattesco-19a827204]
 
-**matheusmattesco/matheusmattesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-* tee
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
