@@ -7,7 +7,7 @@
 
 ### Experiencia Profissional:
 
- - DK7 Informática, Sertanópolis— Suporte TI <br>
+ - DK7 Informática, Sertanópolis — Suporte TI <br>
  - SERMUSA, Sertanópolis — Estagiário Administrativo
 
 ### Formação
