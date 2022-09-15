@@ -16,7 +16,7 @@
 
 ### Projetos
 
- - Curso MasterOffice Administrativo— Mariah Cursos <br>
+ - Curso MasterOffice Administrativo — Mariah Cursos <br>
  - Núcleo de Atividades de Altas Habilidades/Superdotação— NAAHS
 
 
