@@ -2,23 +2,23 @@
 
 ### Contatos
 
-[LinkedIn](http://linkedin.com/in/msbrodrigues](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fmatheus-mattesco-19a827204)) <br>
-[Instagram](http://www.instagram.com/matheus_mattesco) <br>
-[E-mail](matheus.mattesco@edu.unfil.br) <br>
+ - [LinkedIn](http://linkedin.com/in/msbrodrigues](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fmatheus-mattesco-19a827204)) <br>
+ - [Instagram](http://www.instagram.com/matheus_mattesco) <br>
+ - [E-mail](matheus.mattesco@edu.unfil.br) <br>
 
 ### Experiencia Profissional:
 
-DK7 Informática, Sertanópolis— Suporte TI <br>
-SERMUSA, Sertanópolis — Estagiário Administrativo
+ - DK7 Informática, Sertanópolis— Suporte TI <br>
+ - SERMUSA, Sertanópolis — Estagiário Administrativo
 
 ### FORMAÇÃO
 
-Centro Universitário Filadélfia, Londrina — Ensino Superior
+ - Centro Universitário Filadélfia, Londrina — Ensino Superior
 
 ### Projetos
 
-Curso MasterOffice Administrativo— Mariah Cursos <br>
-Núcleo de Atividades de Altas Habilidades/Superdotação— NAAHS
+ - Curso MasterOffice Administrativo— Mariah Cursos <br>
+ - Núcleo de Atividades de Altas Habilidades/Superdotação— NAAHS
 
 
 
