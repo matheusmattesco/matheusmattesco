@@ -11,7 +11,7 @@
  - DK7 Informática, Sertanópolis— Suporte TI <br>
  - SERMUSA, Sertanópolis — Estagiário Administrativo
 
-### FORMAÇÃO
+### Formação
 
  - Centro Universitário Filadélfia, Londrina — Ensino Superior
 
