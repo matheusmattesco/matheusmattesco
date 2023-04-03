@@ -7,8 +7,9 @@
 
 ### Experiencia Profissional:
 
- - DK7 Informática, Sertanópolis — Suporte TI <br>
- - SERMUSA, Sertanópolis — Estagiário Administrativo
+ - DK7 Informática, Sertanópolis-PR — Suporte TI <br>
+ - SERMUSA, Sertanópolis-PR — Estagiário Administrativo
+ - Atos, Londrina-PR - Estágiario de Desenvolvimento
 
 ### Formação
 
