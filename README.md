@@ -1,51 +1,75 @@
-# Matheus Mattesco
+# 👋 Hi, I'm Matheus Mattesco  
 
+📍 Londrina, Paraná – Brazil  
+📧 m.robertomatheus@hotmail.com | 📱 +55 (43) 99918-4597  
 
-### Experiencia Profissional:
+---
 
- - DK7 Informática, Sertanópolis-PR — Suporte TI <br>
- - SERMUSA, Sertanópolis-PR — Estagiário Administrativo
- - Atos, Londrina-PR - Estágiario de Desenvolvimento
+## 🎯 Career Objective  
+I am a **Data Scientist / Machine Learning Engineer** in career transition, with a background in **Software Engineering** and a postgraduate degree in **Artificial Intelligence**.  
 
-### Formação
+I have hands-on experience in **Machine Learning, Generative AI, Computer Vision, and NLP**, building and deploying models to solve real-world problems.  
+I am looking for opportunities to apply my skills in **Python, Scikit-learn, LangChain, Hugging Face, and Azure AI**, contributing to innovative **data-driven solutions**.  
 
- - Centro Universitário Filadélfia, Londrina — Ensino Superior
+---
 
-### Projetos
+## 🛠️ Technical Skills  
 
- - Curso MasterOffice Administrativo — Mariah Cursos <br>
- - Núcleo de Atividades de Altas Habilidades/Superdotação— NAAHS
+- **Languages:** Python, SQL, .NET (C#), JavaScript  
+- **Machine Learning & AI:** Scikit-learn, Pandas, Keras, Hugging Face, LangChain, Azure AI, Supervised/Unsupervised Learning, Generative AI, Computer Vision, NLP  
+- **Databases:** SQL Server, Oracle, MySQL  
+- **Tools & Frameworks:** OpenCV, MediaPipe, FAISS, Django, React, Tailwind CSS, Git/GitHub, Streamlit  
+- **Methodologies:** ITIL, Git best practices, Agile (Scrum/Kanban)  
 
- <div>
-  <a href="https://github.com/matheusmattesco">
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmattesco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmattesco&layout=compact&langs_count=7&theme=dracula"/>  -->
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🚀 Relevant AI & Data Projects  
 
-  
-</div>
-      
-  ##
-  
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusmattesco&show_icons=true&include_all_commits=true&icon_color=4ebcf0&hide_border=false&theme=tokyonight&bg_color=0D1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmattesco&show_icons=true&icon_color=4ebcf0&include_all_commits=true&hide_border=false&theme=tokyonight&bg_color=0D1117&layout=compact"/>
-</div>
-  
- 
-  <div align="center">
-    <a href="https://instagram.com/matheus_mattesco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:matheus.mattesco@edu.unifil.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-mattesco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- **🌱 Agricultural Crop Classification**  
+  Built a **Random Forest model (Scikit-learn)** to classify agricultural crops using soil, climate, and imagery data.  
+  📊 Achieved **92% accuracy**, reducing identification time from **3 days to 2 hours**.  
 
- 
-</div>
+- **🧍 Human Pose Detection for Ergonomics**  
+  Developed a **real-time Computer Vision system** with **OpenCV + MediaPipe** for ergonomic analysis.  
+  ✅ High accuracy in detecting and classifying human poses.  
 
+- **📄 RAG with LLM and Local Documents**  
+  Implemented a **Retrieval-Augmented Generation (RAG)** system using **LangChain + FAISS + Google Gemma LLM**.  
+  🔍 Enabled intelligent search and question-answering over **PDFs and internal documents**.  
+
+---
+
+## 💼 Professional Experience  
+
+**Analyst I – Atos (Volkswagen) | Londrina – PR | Feb 2023 – Present**  
+- Maintenance and evolution of corporate systems in **.NET and SQL Server**.  
+- Developed **SQL scripts** for advanced reporting and analysis.  
+- Proposed and implemented performance and usability improvements.  
+- Handled **critical SLA incidents**, reducing resolution time by **30%**.  
+- Applied **ITIL practices** and **Git versioning**.  
+
+**IT Support – DK7 Informática | Sertanópolis – PR | Feb 2021 – Jan 2023**  
+- Installed and maintained hardware and networks.  
+- Administered municipal government servers.  
+- Delivered rapid resolution of IT incidents.  
+
+---
+
+## 🎓 Education  
+
+- **Postgraduate in Machine Learning & Big Data** – Universidade Estadual de Londrina (UEL) | *2025–2026*  
+- **B.Sc. in Software Engineering** – Unifil, Londrina | *2021–2024*  
+
+---
+
+## 📜 Certifications  
+
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** – Microsoft, 2025  
+  Concepts of **Artificial Intelligence, Machine Learning, Computer Vision, NLP**, and Azure AI services.  
+
+---
+
+## 🌐 Let's Connect!  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/matheusmattesco)  
+💻 [GitHub](https://github.com/matheusmattesco)  
